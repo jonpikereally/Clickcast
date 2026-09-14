@@ -1,0 +1,8 @@
+# Build products (run ./build.sh to recreate)
+ClickCast.app/Contents/MacOS/
+ClickCast.app/Contents/_CodeSignature/
+Sources/ClickCast/Version.swift
+# The Stream Deck plugin is its own repo: https://github.com/jonpikereally/clickcast-streamdeck
+streamdeck/
+.claude/
+.DS_Store
